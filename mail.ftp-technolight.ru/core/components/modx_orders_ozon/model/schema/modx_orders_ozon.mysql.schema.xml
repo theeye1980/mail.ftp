@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<model package="modx_orders_ozon" baseClass="xPDOObject" platform="mysql" defaultEngine="MyISAM" version="1.1">
+    <object class="orders_ozon" table="modx_orders_ozon" extends="xPDOSimpleObject">
+        <field key="ozon_id" dbtype="int" precision="10" attributes="unsigned" phptype="integer" null="false" default="0" />
+        <field key="goods_xml_up" dbtype="bigint" precision="10" attributes="unsigned" phptype="integer" null="false" default="0" />
+<field key="prices_up" dbtype="bigint" precision="10" attributes="unsigned" phptype="integer" null="false" default="0" />
+<field key="stocks_up" dbtype="bigint" precision="10" attributes="unsigned" phptype="integer" null="false" default="0" />
+
+<field key="update_page" dbtype="bigint" precision="10" attributes="unsigned" phptype="integer" null="false" default="0" />
+<field key="tester" dbtype="bigint" precision="10" attributes="unsigned" phptype="integer" null="false" default="0" />
+        
+    </object>
+
+</model>

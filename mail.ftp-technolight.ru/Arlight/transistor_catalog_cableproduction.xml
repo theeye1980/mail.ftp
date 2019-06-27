@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<data created="Wed, 30 Jan 2019 08:10:17 GMT">
+<product>
+				<article>025020</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="435">Кабельная продукция / LAN кабель / Кабель UTP</group>
+				<name prefix="">Кабель ARL-UTP-PRO-4PR-24AWG-CAT5e-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>31.33</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">UTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">4 (8 жил)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">8</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT5e</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">24AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (очищенная медь)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">1000 Mbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">PRO</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/025020/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:11:40">http://assets.transistor.ru/files/FEB17B8D1934744B8F6DC78A1F83DB05.pdf&amp;name=DataSheet_ARL-FTP_UTP_-PRO-4PR-24AWG-CAT5e-CU_025020_025052_A6</pdf>
+<img id="C187BF24FD06004DBF48523E93F5631C" type="jpg" modified="Fri, 10 Aug 2018 08:30:28 GMT">http://assets.transistor.ru/img/product/C187BF24FD06004DBF48523E93F5631C.jpg</img>
+<descript>Кабель информационный "витая пара" UTP СAT5e 24AWG. 4 пары проводников, диаметр проводника 0.5мм, материал проводника очищенная медь. Внешняя оболочка - ПВХ серого цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>025056</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="435">Кабельная продукция / LAN кабель / Кабель UTP</group>
+				<name prefix="">Кабель ARL-UTP-PRO-4PR-23AWG-CAT6-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>-1</pricestatus>
+<currency id="643">RUB</currency>
+<price1>51.22</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">UTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">4 (8 жил)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">8</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT6</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">23AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (очищенная медь)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,57 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">10 Gbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">PRO</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/025056/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:14:53">http://assets.transistor.ru/files/6E7C4BE98BD30B4CB6D78E3541E10F49.pdf&amp;name=DataSheet_ARL-FTP_UTP_-PRO-4PR-23AWG-CAT6-CU_025056_026356_A6</pdf>
+<img id="2BBD1EF4DCDCA243A7BD38781D2F9D24" type="jpg" modified="Fri, 10 Aug 2018 08:32:27 GMT">http://assets.transistor.ru/img/product/2BBD1EF4DCDCA243A7BD38781D2F9D24.jpg</img>
+<descript>Кабель информационный "витая пара" UTP СAT6 23AWG. 4 пары проводников, диаметр проводника 0.57мм, материал очищенная медь (CU). Внешняя оболочка - ПВХ синего цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>025050</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="435">Кабельная продукция / LAN кабель / Кабель UTP</group>
+				<name prefix="">Кабель ARL-UTP-CLASSIC-2PR-24AWG-CAT5e-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>14.04</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">UTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">2 (4 жилы)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">4</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT5e</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">24AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (очищенная медь)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,45 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">100 Mbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">CLASSIC</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/025050/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:18:05">http://assets.transistor.ru/files/333E1DFC6FCBF241B965A3868F49CE2A.pdf&amp;name=DataSheet_ARL-FTP_UTP_-CLASSIC-4PR_2PR_-24AWG-CAT5e-CU_025050_025047_025053_A6</pdf>
+<img id="F0EDD0F1F7F3A242B4A94BB12EC63766" type="jpg" modified="Fri, 10 Aug 2018 08:28:34 GMT">http://assets.transistor.ru/img/product/F0EDD0F1F7F3A242B4A94BB12EC63766.jpg</img>
+<descript>Кабель информационный "витая пара" UTP СAT5e 24AWG. 2 пары проводников, диаметр проводника 0.45мм, материал проводника очищенная медь. Внешняя оболочка - ПВХ серого цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>025047</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="435">Кабельная продукция / LAN кабель / Кабель UTP</group>
+				<name prefix="">Кабель ARL-UTP-CLASSIC-4PR-24AWG-CAT5e-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>24.54</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">UTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">4 (8 жил)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">8</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT5e</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">24AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (очищенная медь)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,45 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">1000 Mbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">CLASSIC</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/025047/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:18:05">http://assets.transistor.ru/files/333E1DFC6FCBF241B965A3868F49CE2A.pdf&amp;name=DataSheet_ARL-FTP_UTP_-CLASSIC-4PR_2PR_-24AWG-CAT5e-CU_025050_025047_025053_A6</pdf>
+<img id="C187BF24FD06004DBF48523E93F5631C" type="jpg" modified="Fri, 10 Aug 2018 08:30:28 GMT">http://assets.transistor.ru/img/product/C187BF24FD06004DBF48523E93F5631C.jpg</img>
+<descript>Кабель информационный "витая пара" UTP СAT5e 24AWG. 4 пары проводников, диаметр проводника 0.45мм, материал проводника очищенная медь. Внешняя оболочка - ПВХ серого цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>025055</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="435">Кабельная продукция / LAN кабель / Кабель UTP</group>
+				<name prefix="">Кабель ARL-UTP-CLASSIC-4PR-23AWG-CAT6-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>-1</pricestatus>
+<currency id="643">RUB</currency>
+<price1>34.92</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">UTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">4 (8 жил)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">8</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT6</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">23AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (очищенная медь)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,47 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">10 Gbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">CLASSIC</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/025055/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:19:56">http://assets.transistor.ru/files/AA28EEBEC145824BBE8219F40D2D9914.pdf&amp;name=DataSheet_ARL-FTP_UTP_-CLASSIC-4PR-23AWG-CAT6-CU_025055_025054_A6</pdf>
+<img id="2BBD1EF4DCDCA243A7BD38781D2F9D24" type="jpg" modified="Fri, 10 Aug 2018 08:32:27 GMT">http://assets.transistor.ru/img/product/2BBD1EF4DCDCA243A7BD38781D2F9D24.jpg</img>
+<descript>Кабель информационный "витая пара" UTP СAT6 23AWG. 4 пары проводников, диаметр проводника 0.47мм, материал очищенная медь (CU). Внешняя оболочка - ПВХ синего цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>025052</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="933">Кабельная продукция / LAN кабель / Кабель FTP</group>
+				<name prefix="">Кабель ARL-FTP-PRO-4PR-24AWG-CAT5e-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>43.22</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">FTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">4 (8 жил)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">8</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT5e</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">24AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (очищенная медь)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">ALU (алюминиевая фольга)</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">1000 Mbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">PRO</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/025052/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:11:40">http://assets.transistor.ru/files/FEB17B8D1934744B8F6DC78A1F83DB05.pdf&amp;name=DataSheet_ARL-FTP_UTP_-PRO-4PR-24AWG-CAT5e-CU_025020_025052_A6</pdf>
+<img id="2C1E732A66B69140967FD13A12C52B50" type="jpg" modified="Fri, 10 Aug 2018 08:31:37 GMT">http://assets.transistor.ru/img/product/2C1E732A66B69140967FD13A12C52B50.jpg</img>
+<descript>Кабель информационный "витая пара" FTP СAT5e 24AWG. 4 пары проводников, диаметр проводника 0.5мм, материал проводника очищенная медь. Экранирование внешнее алюминиевой фольгой. Внешняя оболочка - ПВХ серого цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>026356</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="933">Кабельная продукция / LAN кабель / Кабель FTP</group>
+				<name prefix="">Кабель ARL-FTP-PRO-4PR-23AWG-CAT6-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>-1</pricestatus>
+<currency id="643">RUB</currency>
+<price1>66.1</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">FTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">4 (8 жил)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">8</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT6</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">23AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (очищенная медь)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">ALU (алюминиевая фольга)</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">10 Gbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">PRO</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/026356/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:14:53">http://assets.transistor.ru/files/6E7C4BE98BD30B4CB6D78E3541E10F49.pdf&amp;name=DataSheet_ARL-FTP_UTP_-PRO-4PR-23AWG-CAT6-CU_025056_026356_A6</pdf>
+<img id="760F5306DC04FF4080B064805444E584" type="jpg" modified="Fri, 10 Aug 2018 08:33:13 GMT">http://assets.transistor.ru/img/product/760F5306DC04FF4080B064805444E584.jpg</img>
+<descript>Кабель информационный "витая пара" FTP СAT6 23AWG. 4 пары проводников, диаметр проводника 0.58мм, материал проводника очищенная медь. Экранирование внешнее алюминиевой фольгой. Внешняя оболочка - ПВХ синего цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>025053</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="933">Кабельная продукция / LAN кабель / Кабель FTP</group>
+				<name prefix="">Кабель ARL-FTP-CLASSIC-4PR-24AWG-CAT5e-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>-1</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33.64</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">FTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">4 (8 жил)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">8</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT5e</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">24AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (очищенная медь)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,45 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">ALU (алюминиевая фольга)</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">1000 Mbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">CLASSIC</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/025053/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:18:05">http://assets.transistor.ru/files/333E1DFC6FCBF241B965A3868F49CE2A.pdf&amp;name=DataSheet_ARL-FTP_UTP_-CLASSIC-4PR_2PR_-24AWG-CAT5e-CU_025050_025047_025053_A6</pdf>
+<img id="2C1E732A66B69140967FD13A12C52B50" type="jpg" modified="Fri, 10 Aug 2018 08:31:37 GMT">http://assets.transistor.ru/img/product/2C1E732A66B69140967FD13A12C52B50.jpg</img>
+<descript>Кабель информационный "витая пара" FTP СAT5e 24AWG. 4 пары проводников, диаметр проводника 0.45мм, материал проводника очищенная медь. Экранирование внешнее алюминиевой фольгой. Внешняя оболочка - ПВХ серого цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>025054</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="933">Кабельная продукция / LAN кабель / Кабель FTP</group>
+				<name prefix="">Кабель ARL-FTP-CLASSIC-4PR-23AWG-CAT6-CU (305m)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>305</packnorm>
+<unit id="006">м</unit>
+<pricestatus>-1</pricestatus>
+<currency id="643">RUB</currency>
+<price1>39.07</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Кабель информационный</value>
+</values>
+</param>
+<param order="1" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">FTP</value>
+</values>
+</param>
+<param order="2" id="101">
+<name>Количество пар</name>
+    <unit/>
+<values total="1">
+<value order="0">4 (8 жил)</value>
+</values>
+</param>
+<param order="3" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">8</value>
+</values>
+</param>
+<param order="4" id="100">
+<name>Категория кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CAT6</value>
+</values>
+</param>
+<param order="5" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">23AWG</value>
+</values>
+</param>
+<param order="6" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CCA (омедненный кабель)</value>
+</values>
+</param>
+<param order="7" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="8" id="104">
+<name>Диаметр жилы проводника</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="9" id="109">
+<name>Экранирование пар</name>
+    <unit/>
+<values total="1">
+<value order="0">Отсутствует</value>
+</values>
+</param>
+<param order="10" id="110">
+<name>Экранирование кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">ALU (алюминиевая фольга)</value>
+</values>
+</param>
+<param order="11" id="105">
+<name>Диаметр кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">4,9 мм</value>
+</values>
+</param>
+<param order="12" id="106">
+<name>Материал изоляции проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Полиэтилен HDPE</value>
+</values>
+</param>
+<param order="13" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="14" id="108">
+<name>Толщина изоляции кабеля</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,5 мм</value>
+</values>
+</param>
+<param order="15" id="113">
+<name>Скорость передачи данных</name>
+    <unit/>
+<values total="1">
+<value order="0">10 Gbit/s</value>
+</values>
+</param>
+<param order="16" id="112">
+<name>Частота передачи данных</name>
+<unit>MHz</unit>
+<values total="1">
+<value order="0">125 MHz</value>
+</values>
+</param>
+<param order="17" id="87">
+<name>Рабочая температура</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">min: -40 °C; max: 60 °C</value>
+</values>
+</param>
+<param order="18" id="114">
+<name>Минимальная температура монтажа</name>
+<unit>°C</unit>
+<values total="1">
+<value order="0">-10 °C</value>
+</values>
+</param>
+<param order="19" id="71">
+<name>Ток нагрузки</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,808 A; max: 0,921 A</value>
+</values>
+</param>
+<param order="20" id="56">
+<name>Постоянное напряжение питания (*)</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 3 V; max: 80 V</value>
+</values>
+</param>
+<param order="21" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="22" id="96">
+<name>Серия</name>
+    <unit/>
+<values total="1">
+<value order="0">CLASSIC</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/025054/</techinfo>
+<pdf modified="Thu, 09 Aug 2018 15:19:56">http://assets.transistor.ru/files/AA28EEBEC145824BBE8219F40D2D9914.pdf&amp;name=DataSheet_ARL-FTP_UTP_-CLASSIC-4PR-23AWG-CAT6-CU_025055_025054_A6</pdf>
+<img id="760F5306DC04FF4080B064805444E584" type="jpg" modified="Fri, 10 Aug 2018 08:33:13 GMT">http://assets.transistor.ru/img/product/760F5306DC04FF4080B064805444E584.jpg</img>
+<descript>Кабель информационный "витая пара" FTP СAT6 23AWG. 4 пары проводников, диаметр проводника 0.47мм, материал проводника очищенная медь. Экранирование внешнее алюминиевой фольгой. Внешняя оболочка - ПВХ синего цвета. Длина кабеля в бухте - 305 метров.</descript>
+</product>
+<product>
+				<article>026348</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="626">Кабельная продукция / Кабель питания / Шлейфы</group>
+				<name prefix="">Шлейф питания ARL-18AWG-2Wire-CU</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>45.45</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Провод</value>
+</values>
+</param>
+<param order="1" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">18AWG</value>
+</values>
+</param>
+<param order="2" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Шлейф питания</value>
+</values>
+</param>
+<param order="3" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="4" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (лужёная медь)</value>
+</values>
+</param>
+<param order="5" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="6" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="7" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">2</value>
+</values>
+</param>
+<param order="8" id="139">
+<name>Площадь сечения проводника (мм^2)</name>
+    <unit/>
+<values total="1">
+<value order="0">0,84 </value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/026348/</techinfo>
+<pdf/>
+<img id="79379D5F266F994995EF9A66F9C83BE9" type="jpg" modified="Mon, 28 Jan 2019 08:59:09 GMT">http://assets.transistor.ru/img/product/79379D5F266F994995EF9A66F9C83BE9.jpg</img>
+<descript>Шлейф для питания и управления одноцветными светодиодными лентами. 2 проводника, калибр проводника 18AWG, сечение проводника 0.84 мм^2, материал проводника - лужёная медь. Внешняя оболочка - ПВХ красного и чёрного цветов. Длина кабеля в бухте - 50 метров.</descript>
+</product>
+<product>
+				<article>026352</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="626">Кабельная продукция / Кабель питания / Шлейфы</group>
+				<name prefix="">Шлейф питания ARL-18AWG-4Wire-CU</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>90.3</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Провод</value>
+</values>
+</param>
+<param order="1" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">18AWG</value>
+</values>
+</param>
+<param order="2" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Шлейф питания</value>
+</values>
+</param>
+<param order="3" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="4" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (лужёная медь)</value>
+</values>
+</param>
+<param order="5" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="6" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="7" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">4</value>
+</values>
+</param>
+<param order="8" id="139">
+<name>Площадь сечения проводника (мм^2)</name>
+    <unit/>
+<values total="1">
+<value order="0">0,84 </value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/026352/</techinfo>
+<pdf/>
+<img id="57E89C52FD0526488E635C91AB2EA739" type="jpg" modified="Mon, 28 Jan 2019 09:02:11 GMT">http://assets.transistor.ru/img/product/57E89C52FD0526488E635C91AB2EA739.jpg</img>
+<descript>Шлейф для питания и управления мультицветными (RGB) светодиодными лентами. 4 проводника, калибр проводника 18AWG, сечение проводника 0.84 мм^2, материал проводника - лужёная медь. Внешняя оболочка - ПВХ чёрного, зеленого, красного и синего цветов. Длина кабеля в бухте - 50 метров.</descript>
+</product>
+<product>
+				<article>026354</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="626">Кабельная продукция / Кабель питания / Шлейфы</group>
+				<name prefix="">Шлейф питания ARL-18AWG-5Wire-CU</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>110.37</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Провод</value>
+</values>
+</param>
+<param order="1" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">18AWG</value>
+</values>
+</param>
+<param order="2" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Шлейф питания</value>
+</values>
+</param>
+<param order="3" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="4" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (лужёная медь)</value>
+</values>
+</param>
+<param order="5" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="6" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="7" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">5</value>
+</values>
+</param>
+<param order="8" id="139">
+<name>Площадь сечения проводника (мм^2)</name>
+    <unit/>
+<values total="1">
+<value order="0">0,84 </value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/026354/</techinfo>
+<pdf/>
+<img id="BF8F0951503E8042B6F3ABFA43FD7FC8" type="jpg" modified="Mon, 28 Jan 2019 09:04:28 GMT">http://assets.transistor.ru/img/product/BF8F0951503E8042B6F3ABFA43FD7FC8.jpg</img>
+<descript>Шлейф для питания и управления мультицветными (RGBW) светодиодными лентами. 5 проводников, калибр проводника 18AWG, сечение проводника 0.84 мм^2, материал проводника - лужёная медь. Внешняя оболочка - ПВХ чёрного, зеленого, красного, синего и белого цветов. Длина кабеля в бухте - 50 метров.</descript>
+</product>
+<product>
+				<article>026349</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="626">Кабельная продукция / Кабель питания / Шлейфы</group>
+				<name prefix="">Шлейф питания ARL-20AWG-2Wire-CU</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>31.87</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Провод</value>
+</values>
+</param>
+<param order="1" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">20AWG</value>
+</values>
+</param>
+<param order="2" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Шлейф питания</value>
+</values>
+</param>
+<param order="3" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="4" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (лужёная медь)</value>
+</values>
+</param>
+<param order="5" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="6" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="7" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">2</value>
+</values>
+</param>
+<param order="8" id="139">
+<name>Площадь сечения проводника (мм^2)</name>
+    <unit/>
+<values total="1">
+<value order="0">0,52 </value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/026349/</techinfo>
+<pdf/>
+<img id="79379D5F266F994995EF9A66F9C83BE9" type="jpg" modified="Mon, 28 Jan 2019 08:59:09 GMT">http://assets.transistor.ru/img/product/79379D5F266F994995EF9A66F9C83BE9.jpg</img>
+<descript>Шлейф для питания и управления одноцветными светодиодными лентами. 2 проводника, калибр проводника 20AWG, сечение проводника 0.52 мм^2, материал проводника - лужёная медь. Внешняя оболочка - ПВХ красного и чёрного цветов. Длина кабеля в бухте - 50 метров.</descript>
+</product>
+<product>
+				<article>026353</article>
+				<category id="21">Кабельная продукция</category>
+				<group id="626">Кабельная продукция / Кабель питания / Шлейфы</group>
+				<name prefix="">Шлейф питания ARL-20AWG-4Wire-CU</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>5000</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>61.97</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Провод</value>
+</values>
+</param>
+<param order="1" id="98">
+<name>Калибр провода</name>
+    <unit/>
+<values total="1">
+<value order="0">20AWG</value>
+</values>
+</param>
+<param order="2" id="99">
+<name>Тип кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">Шлейф питания</value>
+</values>
+</param>
+<param order="3" id="102">
+<name>Структура проводника</name>
+    <unit/>
+<values total="1">
+<value order="0">Однородный (solid)</value>
+</values>
+</param>
+<param order="4" id="103">
+<name>Материал проводника кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">CU (лужёная медь)</value>
+</values>
+</param>
+<param order="5" id="107">
+<name>Материал изоляции кабеля</name>
+    <unit/>
+<values total="1">
+<value order="0">PVC (ПВХ)</value>
+</values>
+</param>
+<param order="6" id="111">
+<name>Место применения (рекомендация)</name>
+    <unit/>
+<values total="1">
+<value order="0">Внутри помещений (Indoor)</value>
+</values>
+</param>
+<param order="7" id="138">
+<name>Число проводников</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">4</value>
+</values>
+</param>
+<param order="8" id="139">
+<name>Площадь сечения проводника (мм^2)</name>
+    <unit/>
+<values total="1">
+<value order="0">0,52 </value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/026353/</techinfo>
+<pdf/>
+<img id="57E89C52FD0526488E635C91AB2EA739" type="jpg" modified="Mon, 28 Jan 2019 09:02:11 GMT">http://assets.transistor.ru/img/product/57E89C52FD0526488E635C91AB2EA739.jpg</img>
+<descript>Шлейф для питания и управления мультицветными (RGB) светодиодными лентами. 4 проводника, калибр проводника 20AWG, сечение проводника 0.52 мм^2, материал проводника - лужёная медь. Внешняя оболочка - ПВХ чёрного, зеленого, красного и синего цветов. Длина кабеля в бухте - 50 метров.</descript>
+</product>
+</data>

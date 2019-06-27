@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<data created="Wed, 30 Jan 2019 08:27:33 GMT">
+<product>
+				<article>000983</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="587">Рекламные материалы / Стенды / Светодиодные ленты LUX</group>
+				<name prefix="">Стенд-мини Светодиодные Ленты RT-LUX-600x580mm (DB 3мм, пленка, лого)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>22192.12</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">600 мм</value>
+</values>
+</param>
+<param order="2" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">580 мм</value>
+</values>
+</param>
+<param order="3" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/000983/</techinfo>
+<pdf/>
+<img id="4137C796EAE5AF4B8F6306B2802D4115" type="jpg" modified="Wed, 05 Sep 2018 13:28:58 GMT">http://assets.transistor.ru/img/product/4137C796EAE5AF4B8F6306B2802D4115.jpg</img>
+<descript>Стенд светодиодные ленты из композита 3 мм. 16 лент и управление на одном стенде.
+Габаритные размеры (Ширина Х Высота Х Глубина), 580х600х50 мм.</descript>
+</product>
+<product>
+				<article>000993</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="587">Рекламные материалы / Стенды / Светодиодные ленты LUX</group>
+				<name prefix="">Стенд Светодиодные Ленты RT-LUX-1100x600mm (DB 3мм, пленка, лого)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>2</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33288.18</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 100 мм</value>
+</values>
+</param>
+<param order="2" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">600 мм</value>
+</values>
+</param>
+<param order="3" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/000993/</techinfo>
+<pdf/>
+<img id="BC561F81D877CC46A3EA86069B393060" type="jpg" modified="Tue, 06 Mar 2018 07:02:44 GMT">http://assets.transistor.ru/img/product/BC561F81D877CC46A3EA86069B393060.jpg</img>
+<descript>Стенд светодиодные ленты из композита 3 мм. 22 ленты, профиль и управление на одном стенде.
+Габаритные размеры (Ширина Х Высота Х Глубина), 600х1100х50 мм.</descript>
+</product>
+<product>
+				<article>000992</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="801">Рекламные материалы / Стенды / Управление светом и БП</group>
+				<name prefix="">Стенд Системы Управления SR-LUX-1100x600mm-V1 (DB 3мм, пленка, лого)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33288.18</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 100 мм</value>
+</values>
+</param>
+<param order="2" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">600 мм</value>
+</values>
+</param>
+<param order="3" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/000992/</techinfo>
+<pdf/>
+<img id="D77BFDBCE8B2924D8652909014E88D4A" type="jpg" modified="Mon, 27 Nov 2017 12:01:14 GMT">http://assets.transistor.ru/img/product/D77BFDBCE8B2924D8652909014E88D4A.jpg</img>
+<descript>Стенд системы управления светом.
+Габаритные размеры (Ширина Х Высотах Х Глубина), мм 600х1100х50 мм.</descript>
+</product>
+<product>
+				<article>000995</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="586">Рекламные материалы / Стенды / Алюминиевые профили LUX</group>
+				<name prefix="">Стенд Профиль накладной ARL-1100x600mm-01 (DB 3мм, пленка, лого)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>2</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33288.18</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 100 мм</value>
+</values>
+</param>
+<param order="2" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">600 мм</value>
+</values>
+</param>
+<param order="3" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/000995/</techinfo>
+<pdf/>
+<img id="F8A1E7A5BA79C34ABCDC602DFA2CEEFA" type="jpg" modified="Mon, 27 Nov 2017 11:48:12 GMT">http://assets.transistor.ru/img/product/F8A1E7A5BA79C34ABCDC602DFA2CEEFA.jpg</img>
+<descript>Накладные алюминиевые профили серий S-LUX, ALU, ARH с подсветкой. Материал - алюмобонд.
+Габаритные размеры (Ширина Х Высота Х Глубина), 600х1100х50 мм.</descript>
+</product>
+<product>
+				<article>024310</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="586">Рекламные материалы / Стенды / Алюминиевые профили LUX</group>
+				<name prefix="">Стенд профиль Серии DECORE</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33052.1</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 100 мм</value>
+</values>
+</param>
+<param order="2" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">600 мм</value>
+</values>
+</param>
+<param order="3" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/024310/</techinfo>
+<pdf/>
+<img id="2FBAEFA2D8EBE74295A8235A1CF1D51A" type="jpg" modified="Fri, 06 Apr 2018 08:08:39 GMT">http://assets.transistor.ru/img/product/2FBAEFA2D8EBE74295A8235A1CF1D51A.jpg</img>
+<descript>На стенде представлен профиль серии DECORE и Nano.</descript>
+</product>
+<product>
+				<article>024311</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="586">Рекламные материалы / Стенды / Алюминиевые профили LUX</group>
+				<name prefix="">Стенд профиль Серии WPH</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33052.1</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 100 мм</value>
+</values>
+</param>
+<param order="2" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">600 мм</value>
+</values>
+</param>
+<param order="3" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/024311/</techinfo>
+<pdf/>
+<img id="2F7483B4E239AC459E9B346AAA0CF0AE" type="jpg" modified="Wed, 11 Apr 2018 08:59:24 GMT">http://assets.transistor.ru/img/product/2F7483B4E239AC459E9B346AAA0CF0AE.jpg</img>
+<descript>На стенде представлен профиль серии WPH.</descript>
+</product>
+<product>
+				<article>000996</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="586">Рекламные материалы / Стенды / Алюминиевые профили LUX</group>
+				<name prefix="">Стенд Профиль встраиваемый ARL-1100x600mm-02 (DB 3мм, пленка, лого)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>7</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33288.18</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 100 мм</value>
+</values>
+</param>
+<param order="2" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">600 мм</value>
+</values>
+</param>
+<param order="3" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">90 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/000996/</techinfo>
+<pdf/>
+<img id="752FE5F5302A2C429FD3E28D4468CDC6" type="jpg" modified="Wed, 20 Dec 2017 14:03:06 GMT">http://assets.transistor.ru/img/product/752FE5F5302A2C429FD3E28D4468CDC6.jpg</img>
+<descript>Встраиваемые алюминиевые профили серий S-LUX, ALU, ARH с подсветкой. Материал - алюмобонд.
+Габаритные размеры (Ширина Х Высота Х Глубина), 600х1100х90 мм.</descript>
+</product>
+<product>
+				<article>022374</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Демо-стенд KLUS-4 (1000x300mm)</name>
+				<developer>ARL</developer>
+				<case>МДФ</case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>11988.16</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata/>
+<techinfo/>
+<pdf/>
+<img id="03EC095070E0B44AB6201E9597A0EB94" type="jpg" modified="Mon, 02 Jul 2018 09:44:19 GMT">http://assets.transistor.ru/img/product/03EC095070E0B44AB6201E9597A0EB94.jpg</img>
+<descript>Демонстрационный стенд №4 профиля KLUS. Профили 9 видов, серии GLASS, STEP, POWER, POR, LOCK. Высота 1000мм, ширина 300 мм. Без подсветки.</descript>
+</product>
+<product>
+				<article>023982</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Cтенд KLUS PAK-EDGE</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33052.1</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/023982/</techinfo>
+<pdf/>
+<img id="EC7DFA8585A1154A90A78AB7DD2A48F2" type="jpg" modified="Mon, 02 Jul 2018 09:41:35 GMT">http://assets.transistor.ru/img/product/EC7DFA8585A1154A90A78AB7DD2A48F2.jpg</img>
+<descript/>
+</product>
+<product>
+				<article>022451</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Стенд KLUS (KARNIZ-R, WALL)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>34822.74</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/022451/</techinfo>
+<pdf/>
+<img id="9ADA01BE893A764E9FAE7A55108FCC96" type="jpg" modified="Fri, 21 Dec 2018 07:52:19 GMT">http://assets.transistor.ru/img/product/9ADA01BE893A764E9FAE7A55108FCC96.jpg</img>
+<descript>Демонстрационный стенд для профиля (KARNIZ-R-2000,G-WALL). С подсветкой.</descript>
+</product>
+<product>
+				<article>021622</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Стенд KLUS-BOX, K-WALL (с подсветкой)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>1</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>34232.53</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/021622/</techinfo>
+<pdf/>
+<img id="6915870F3CC221458F7A310BFA75BA9D" type="jpg" modified="Mon, 02 Jul 2018 10:44:40 GMT">http://assets.transistor.ru/img/product/6915870F3CC221458F7A310BFA75BA9D.jpg</img>
+<descript>Демонстрационный стенд для 2-х профилей: BOX57-DUAL, K-WALL. Высота ---мм, ширина --- мм. С подсветкой. Питание 24В, требуется внешний блок питания (поставляется отдельно).</descript>
+</product>
+<product>
+				<article>021623</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Стенд KLUS-KARNIZ (с подсветкой)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>31871.66</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/021623/</techinfo>
+<pdf/>
+<img id="E3AD1230BD98404E9731D6C6E2A8D7B3" type="jpg" modified="Mon, 02 Jul 2018 10:45:44 GMT">http://assets.transistor.ru/img/product/E3AD1230BD98404E9731D6C6E2A8D7B3.jpg</img>
+<descript>Демонстрационный стенд на профиле KARNIZ-PLUS. Высота ---мм, ширина --- мм. С подсветкой. Питание 24В, требуется внешний блок питания (поставляется отдельно).</descript>
+</product>
+<product>
+				<article>021620</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Стенд KLUS-PLS-X (с подсветкой)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>50758.58</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/021620/</techinfo>
+<pdf/>
+<img id="79C5BD60138CAE4D810C0EE6767EE7BF" type="jpg" modified="Mon, 02 Jul 2018 10:52:16 GMT">http://assets.transistor.ru/img/product/79C5BD60138CAE4D810C0EE6767EE7BF.jpg</img>
+<descript>Демонстрационный стенд линий света на профиле PLS. Высота ---мм, ширина --- мм. С подсветкой. Питание 24В, требуется внешний блок питания (поставляется отдельно).</descript>
+</product>
+<product>
+				<article>021621</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Стенд KLUS-TEK, PLS, PDS (с подсветкой)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>34232.53</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/021621/</techinfo>
+<pdf/>
+<img id="C782FC080B8AA543A759BBD2A902C00A" type="jpg" modified="Mon, 02 Jul 2018 10:53:26 GMT">http://assets.transistor.ru/img/product/C782FC080B8AA543A759BBD2A902C00A.jpg</img>
+<descript>Демонстрационный стенд линий света на профиле PLS/PDS с использованием профиль-держателей TEK. Высота ---мм, ширина --- мм. С подсветкой. Питание 24В, требуется внешний блок питания (поставляется отдельно).</descript>
+</product>
+<product>
+				<article>021619</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Стенд угловой KLUS-PAK (с подсветкой)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>50758.58</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related><article>021649</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/021619/</techinfo>
+<pdf/>
+<img id="A6970620CB65274DBF232D590E754EB5" type="jpg" modified="Mon, 02 Jul 2018 10:55:10 GMT">http://assets.transistor.ru/img/product/A6970620CB65274DBF232D590E754EB5.jpg</img>
+<descript>Демонстрационный стенд подсветки карнизов на профиле PAK-FLAT, PAK-EDGE. Высота ---мм, ширина --- мм. С подсветкой. Питание 24В, требуется внешний блок питания (поставляется отдельно).</descript>
+</product>
+<product>
+				<article>022371</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Демо-стенд KLUS-1 (1000x300mm)</name>
+				<developer>ARL</developer>
+				<case>МДФ</case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>3</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>10642.02</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="2" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/022371/</techinfo>
+<pdf/>
+<img id="A9A839765D00B745BD278763E52CB04F" type="jpg" modified="Mon, 02 Jul 2018 09:42:16 GMT">http://assets.transistor.ru/img/product/A9A839765D00B745BD278763E52CB04F.jpg</img>
+<descript>Демонстрационный стенд №1 профиля KLUS. Профили 12 видов, серии
+MIC, PDS, HR, GIP (PDS-S, MIC, PDS45-T, PHS-A, PHS-V, PDS-R, PDS-F, MIC-F,
+PDS-REGULOR, HR, HR-F, PLS-GIP). Высота 1000мм, ширина 300 мм. Без подсветки.</descript>
+</product>
+<product>
+				<article>022372</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Демо-стенд KLUS-2 (1000x300mm)</name>
+				<developer>ARL</developer>
+				<case>МДФ</case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>11124.29</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="2" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/022372/</techinfo>
+<pdf/>
+<img id="E896F7F9330432469A19B912B675AE52" type="jpg" modified="Mon, 02 Jul 2018 09:42:50 GMT">http://assets.transistor.ru/img/product/E896F7F9330432469A19B912B675AE52.jpg</img>
+<descript>Демонстрационный стенд №2 профиля KLUS. Профили 9 видов, серии PHS, MULTI, PLS-LOCK (PHS-3X, PHS-3X-F, MULTI-A, MULTI-B, PLS-LOCK, PLS-LOCK-H25, PLS-LOCK-H25-FA, PLS-LOCK-H25-FM, PLS-LOCK-H25-FM, PLS-LOCK, TEK-PLS). Высота 1000мм, ширина 300 мм. Без подсветки.</descript>
+</product>
+<product>
+				<article>022373</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="822">Рекламные материалы / Стенды / Алюминиевые профили KLUS</group>
+				<name prefix="">Демо-стенд KLUS-3 (1000x300mm)</name>
+				<developer>ARL</developer>
+				<case>МДФ</case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>12736.44</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="2" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/022373/</techinfo>
+<pdf/>
+<img id="9B4C3FC1BDD93648B4B9E4098ACDB682" type="jpg" modified="Mon, 02 Jul 2018 09:43:34 GMT">http://assets.transistor.ru/img/product/9B4C3FC1BDD93648B4B9E4098ACDB682.jpg</img>
+<descript>Демонстрационный стенд №3 профиля KLUS. Профили 8 видов, серии BOX, STEP, EX (BOX73-A30, BOX60-ONTOP, BOX60-SIDE, BOX57-DUAL, BOX72, BOX52, STEP, EX). Высота 1000мм, ширина 300 мм. Без подсветки.</descript>
+</product>
+<product>
+				<article>000861</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="546">Рекламные материалы / Стенды / Светодиодные светильники</group>
+				<name prefix="">Стенд Светильники встраиваемые Даунлайты</name>
+				<developer>ARL</developer>
+				<case>Пластик</case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>4</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>37773.82</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata/>
+<techinfo/>
+<pdf/>
+<img id="637D0E479D28DB4EA71FBB3F21E4B3B0" type="jpg" modified="Wed, 04 Apr 2018 12:20:21 GMT">http://assets.transistor.ru/img/product/637D0E479D28DB4EA71FBB3F21E4B3B0.jpg</img>
+<descript>Встраиваемые светильники серий LTD, FROST, Cyclone, EXPLORER. Материал - алюмобонд. Габаритные размеры (Ширина Х Высота Х Глубина), 600х1100х140 мм.</descript>
+</product>
+<product>
+				<article>000862</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="546">Рекламные материалы / Стенды / Светодиодные светильники</group>
+				<name prefix="">Стенд Светильники встраиваемые Интерьерные</name>
+				<developer>ARL</developer>
+				<case>Пластик</case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>37773.82</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata/>
+<techinfo/>
+<pdf/>
+<img id="2ECC41CDB063A14299260DDD136BB668" type="jpg" modified="Fri, 29 Jun 2018 13:32:59 GMT">http://assets.transistor.ru/img/product/2ECC41CDB063A14299260DDD136BB668.jpg</img>
+<descript>Встраиваемые светильники серий SOL, Opal, LTM, LT-R, LT-S. Материал - алюмобонд. Габаритные размеры (Ширина Х Высота Х Глубина), 600х1100х50 мм.</descript>
+</product>
+<product>
+				<article>000860</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="546">Рекламные материалы / Стенды / Светодиодные светильники</group>
+				<name prefix="">Стенд Светильники встраиваемые Тонкие панели</name>
+				<developer>ARL</developer>
+				<case>Пластик</case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>2</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>37773.82</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata/>
+<techinfo/>
+<pdf/>
+<img id="3068A8D8C0D4D849B16F9EA3CA067C67" type="jpg" modified="Wed, 04 Apr 2018 12:19:38 GMT">http://assets.transistor.ru/img/product/3068A8D8C0D4D849B16F9EA3CA067C67.jpg</img>
+<descript>Встраиваемые светильники серии DL, тонкие панели. Материал - алюмобонд. Габаритные размеры (Ширина Х Высота Х Глубина), 600х1100х50 мм.</descript>
+</product>
+<product>
+				<article>000991</article>
+				<category id="20">Рекламные материалы</category>
+				<group id="161">Рекламные материалы / Стенды / Светодиодный декор</group>
+				<name prefix="">Стенд Гибкий Неон ARL-CF-1100x600mm (DB 3мм, пленка, лого)</name>
+				<developer>ARL</developer>
+				<case></case>
+				<advstatus>0</advstatus>
+				<status>0</status>
+				<archive>0</archive>
+			<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>33288.18</price1>
+<price4/>
+<price4_count/>
+<price4_id/>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Стенд</value>
+</values>
+</param>
+<param order="1" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 100 мм</value>
+</values>
+</param>
+<param order="2" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">600 мм</value>
+</values>
+</param>
+<param order="3" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://assets.transistor.ru/catalog/reference/000991/</techinfo>
+<pdf/>
+<img id="1CDD294869C6794188454DD51BD45AD8" type="jpg" modified="Fri, 02 Mar 2018 13:50:45 GMT">http://assets.transistor.ru/img/product/1CDD294869C6794188454DD51BD45AD8.jpg</img>
+<descript>Стенд гибкий неон ARL-CF. Объемные белые буквы- Белые буквы Arlight и значок (лого) в шапке стенда, (молочный акрил 3 мм).
+Габаритные размеры (Ширина Х Высота Х Глубина), 600х1100х50 мм.
+Управление
+018268 Контроллер SR-1009FA-1
+016488 Сенсорный пульт Mini SR-2819</descript>
+</product>
+</data>
